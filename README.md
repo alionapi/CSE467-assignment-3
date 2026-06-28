@@ -2,11 +2,11 @@
 CSE467: Computer Security | Spring 2026 | Cryptography
 
 Solution will be added soon.
-# CSE467 Assignment #3
+
+
+
 
 Memory Corruption and Exploit Development
-
-## Overview
 
 This project explores memory corruption vulnerabilities and exploit development techniques in C programs. The assignment focuses on understanding low-level program behavior, stack memory layouts, shellcode execution, and control-flow hijacking through a series of progressively challenging targets.
 
@@ -126,4 +126,3 @@ Automate compilation and project setup.
 ## Course Information
 
 **Course:** CSE467 Computer Security
-**Institution:** UNIST
